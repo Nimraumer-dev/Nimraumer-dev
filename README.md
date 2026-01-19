@@ -51,9 +51,11 @@ Email Me 👉 ✉️ **nimraumerfarooq@gmail.com** For Collaboration/Project or 
 </div>
 
 
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nimraumer-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nimraumer-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -71,10 +73,9 @@ Email Me 👉 ✉️ **nimraumerfarooq@gmail.com** For Collaboration/Project or 
 
 
 
-
-**Code Cycle**
+<div align="center">
+<h2>Code Cycle</h2>
 <br>
-<div>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
