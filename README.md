@@ -1,7 +1,9 @@
-# 💫 Hi 👋, I'm Nimra Umer
-**A passionate Front-end Developer || UI Designer || from Pakistan**
+![Masterhead](https://i.pinimg.com/originals/38/d3/0e/38d30ecfe41c21551c043443d330d637.gif)
 
-Email Me 👉 ✉️ **nimraumerfarooq@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<h1 align="center">💫 Hi 👋, I'm Nimra Umer</h1>
+<h3 align="center">A passionate Front-end Developer || UI Designer || from Pakistan</h3>
+
+<p align="center">Email Me 👉 ✉️ <b>nimraumerfarooq@gmail.com</b> For Collaboration/Project or Anything Else. 😊😊</p>
 
 - 🔭 **I’m currently working on:** Front-end projects using HTML, CSS & JavaScript
 - 🌱 **I’m currently learning:** JavaScript (ES5),React & UI/UX best practices
@@ -51,10 +53,9 @@ Email Me 👉 ✉️ **nimraumerfarooq@gmail.com** For Collaboration/Project or 
 </div>
 
 
+
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nimraumer-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Nimraumer-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ### ✍️ Random Dev Quote
